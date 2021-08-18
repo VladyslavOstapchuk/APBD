@@ -1,0 +1,16 @@
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\ref\LinqTutorials.dll
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csprojAssemblyReference.cache
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+D:\PROJECTS\GIT\cwiczenia6_jd-s18423\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
