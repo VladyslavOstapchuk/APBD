@@ -1,0 +1,16 @@
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\c1.exe
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\c1.deps.json
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\c1.runtimeconfig.json
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\c1.runtimeconfig.dev.json
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\c1.dll
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\ref\c1.dll
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\bin\Debug\net5.0\c1.pdb
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.csprojAssemblyReference.cache
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.AssemblyInfo.cs
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.dll
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\ref\c1.dll
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.pdb
+D:\PROJECTS\GIT\cwiczenia_1-s18423\c1\obj\Debug\net5.0\c1.genruntimeconfig.cache
